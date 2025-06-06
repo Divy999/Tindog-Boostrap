@@ -20,6 +20,13 @@ TinDog is a fully responsive landing page built using Bootstrap 5, HTML, and CSS
 
 ## 📷 Screenshots
 ![Screenshot 2025-06-05 at 11 56 36 PM](https://github.com/user-attachments/assets/45bf6820-04a4-42b1-b360-36560755811b)
-[Screenshot 2025-06-05 at 11 57 21 PM](https://github.com/user-attachments/assets/4ff52246-7b21-434a-9594-f2cdec1db3c1)
-![Screenshot 2025-06-05 at 11 57 21 PM](https://github.com/user-attachments/assets/f5e2e202-ebbd-45ab-8b67-70197cfcfae3)
+![Screenshot 2025-06-05 at 11 57 05 PM](https://github.com/user-attachments/assets/251b7d48-6029-4aba-9937-1d74cb7689b3)
+![Screenshot 2025-06-05 at 11 57 21 PM](https://github.com/user-attachments/assets/7cdf74a2-875d-4e5d-8d76-d881c3207a54)
+
+
+
+
+
+
+
 
